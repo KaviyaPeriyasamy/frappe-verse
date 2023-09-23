@@ -53,7 +53,7 @@ Day 2 - Sept 9th
   - [x] Follow for more [updates](https://github.com/marination)
 
 - [ ] TallyPrime to ERPNext Migration:
-- [x] [Express Tally](https://github.com/laxmantandon/express_tally)
+  - [x] [Express Tally](https://github.com/laxmantandon/express_tally)
 
 - [ ] ERPNext for Legal Practice Management:
   - [x] [Casecentral](https://github.com/4csolutions/casecentral)
@@ -64,4 +64,9 @@ Day 2 - Sept 9th
 - [ ] ERPNext for Sugar Industry:
   - [x] [quantbit](https://kcs.erpdata.in)
 
-Make sure to star ⭐ all the repos including the current one for more exciting updates 😎!
+Make sure to star ⭐ all the repos including the current one for more exciting updates
+
+Bye for Now 👋!
+Will Meet You all at the next conference 2024😎
+
+Follow Me [here](https://www.linkedin.com/in/kaviya-periyasamy) for exciting updates...
