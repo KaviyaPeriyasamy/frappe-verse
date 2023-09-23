@@ -27,7 +27,10 @@ Day 2 - Sept 9th
   - [x] Pitch [here](https://frappe.io/incubator)
 
 - [ ] Frappe Marketplace:
-  - [x] Find More apps [here](https://frappecloud.com/marketplace) 
+  - [x] Find More apps [here](https://frappecloud.com/marketplace)
+
+- [ ] Frappe Awesome:
+  - [x] [Awesome Frappe](https://github.com/gavindsouza/awesome-frappe) 
 
 - [ ] Big Giants using frappe:
 <img width="655" alt="Screenshot 2023-09-23 at 10 57 28 AM" src="https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/9902bc2e-537b-41a9-9a9a-94894867c194">
