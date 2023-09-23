@@ -52,7 +52,23 @@ Frappe Team's - Awesome Product Keynotes:
         
 - [ ] Helpdesk:
   - [x] [Helpdesk](https://github.com/frappe/helpdesk)
-  - [x] [Join Community](https://t.me/frappedesk) 
+  - [x] [Join Community](https://t.me/frappedesk)
+     
+- [ ] Gameplan:
+  - [x] [Gameplan](https://github.com/frappe/gameplan)
+
+- [ ] Frappe Books:
+  - [x] [Books](https://github.com/frappe/books)
+
+- [ ] Print Designer:
+  - [x] [Print Designer](https://github.com/frappe/print_designer)
+
+- [ ] Lending:
+  - [x] [Lending](https://github.com/frappe/lending)
+
+New Initiative:
+
+- [x] Revenue Sharing Program 🤔
 
 Expecting more content?
 
@@ -61,6 +77,11 @@ Check Blog References:
 [Alvamichelle](https://www.linkedin.com/in/alvamichelle/) - [Driving Operations](https://frappe.io/blog/success-stories/driving-operations-in-frappe-through-frappeverse)
 
 [Hussain](https://github.com/NagariaHussain) - [Top 10 Announcemnts](https://buildwithhussain.dev/articles/top-10-announcements-from-frappeverse-2023)
+
+
+FOSS Events:
+ - [x] [PyconIndia](https://konfhub.com/pyconindia2023)
+ - [x] [India Foss 3.0](https://indiafoss.net/2023)
 
 
 Reader's Mindvoice: Wait, Kaviya.....
@@ -87,6 +108,15 @@ Disclaimer: Skip at your own risk. Try to avoid investing time in reinventing as
 - [ ] Chatbot with ERPNext:
   - [x] [Copilot](https://github.com/akhilam-inc/erpnext-copilot)
 
+- [ ] ChatNext:
+  - [x] [ChatNext](https://frappecloud.com/marketplace/apps/nextai)
+      
+- [ ] Developer Tooling:
+  - [x] [Commit](https://github.com/The-Commit-Company/commit)
+
+- [ ] India Compliance:
+  - [x] [India Compliance](https://github.com/resilient-tech/india-compliance)
 
 
 
+Make sure to star ⭐ all the repos including the current one for more exciting updates 😎!
