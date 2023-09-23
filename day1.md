@@ -35,7 +35,7 @@ Frappe Team's - Awesome Product Keynotes:
 - [ ] Frappe Drive:
   - [x] [Drive](https://github.com/frappe/drive)
   
-- [ ] 15th Birthday to frappe / ERPNext - Frappe/ERPNext V15:
+- [ ] 15th Birthday to Frappe/ERPNext - V15:
   - [x] [Frappe](https://github.com/frappe/frappe)
   - [x] [Erpnext](https://github.com/frappe/erpnext)
   
@@ -87,6 +87,7 @@ FOSS Events:
 
 Reader's Mindvoice: Wait, Kaviya.....
 It's really awesome to know that Frappe excelling in their products
+
 Is FOSS Community Members Contributed Back to Frappe / ERPNext?
 
 
