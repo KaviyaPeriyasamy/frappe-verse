@@ -64,3 +64,5 @@ Day 2 - Sept 9th
 
 - [ ] ERPNext for Sugar Industry:
   - [x] [quantbit](https://kcs.erpdata.in)
+
+Make sure to star ⭐ all the repos including the current one for more exciting updates 😎!
