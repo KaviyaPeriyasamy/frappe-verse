@@ -1,6 +1,7 @@
 Feels Excited to See Day 2 Magic?
 
-![IMAGE 2023-09-23 08:18:12](https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/f6454b90-271d-459e-9f30-7b9151002ae6)
+
+![photo_2023-09-23 10 53 42](https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/0f18ded2-65a2-4d4a-8453-3d546946639b)
 
 Btw, The Person in Black Dress who took serious notes is sharing this...
 
@@ -11,7 +12,6 @@ Day 2 - Sept 9th
 - [ ] Business Keynote:
   - [x] [Reach out to](https://www.linkedin.com/in/alvamichelle)
   - [x] Frappe - ISO Certified 9001 and 27001
-      <img width="638" alt="Screenshot 2023-09-23 at 9 05 04 AM" src="https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/1b9b3bac-d35d-418d-9c74-7450710d7f2e">
 
 - [ ] Frappe Partner Program:
   - [x] Become a Partner [here](https://frappe.io/partners/plans)
@@ -30,8 +30,7 @@ Day 2 - Sept 9th
   - [x] Find More apps [here](https://frappecloud.com/marketplace) 
 
 - [ ] Big Giants using frappe:
-      
-   <img width="650" alt="Screenshot 2023-09-23 at 9 26 55 AM" src="https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/5350e262-3e35-4b17-8b98-5d4e950a9d1a">
+<img width="655" alt="Screenshot 2023-09-23 at 10 57 28 AM" src="https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/9902bc2e-537b-41a9-9a9a-94894867c194">
 
 
  Community Contributions:
@@ -40,11 +39,11 @@ Day 2 - Sept 9th
   - [x] [Parlo](https://frappecloud.com/marketplace/apps/parlo)
      
 
+
 - [ ] ERP for Restaurant:
   - [x] [URY](https://ury.app)
-        
-     <img width="629" alt="Screenshot 2023-09-23 at 9 38 41 AM" src="https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/d02ed847-e292-4e7e-b66c-541b135a83fb">
-        
+<img width="559" alt="Screenshot 2023-09-23 at 10 59 30 AM" src="https://github.com/KaviyaPeriyasamy/frappe-verse/assets/36359901/c1b24acb-c181-4c88-8b65-0374da8facb2">
+
 - [ ] ONE FM ❤️ Opensource:
   - [x] [ONE Wiki](https://github.com/ONE-F-M/one_wiki)
   - [x] [Password Management](https://github.com/ONE-F-M/password_management)
